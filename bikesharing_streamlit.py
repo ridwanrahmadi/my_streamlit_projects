@@ -8,13 +8,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 sns.set(font_scale=1.0)
 
-# Download the file using requests
-file_url = 'https://docs.google.com/uc?export=download&id=1RaBmV6Q6FYWU4HWZs80Suqd7KQC34diQ'
-response = requests.get(file_url)
-
-with zipfile.ZipFile('Bike-sharing-dataset.zip', 'r') as zip_ref:
-  zip_ref.extractall()
-
 df_day = pd.read_csv('day.csv')
 df_hour = pd.read_csv('hour.csv')
 
