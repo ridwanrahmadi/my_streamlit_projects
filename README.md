@@ -1,5 +1,11 @@
 # Bikesharing Data Analysis Dashboard
 
+## Streamlit Cloud 
+Tautan untuk dashboard:
+```
+https://bikesharing-rahmadiridwan.streamlit.app/
+```
+
 ## Setup environment
 ```
 conda create --name main-ds python=3.10
