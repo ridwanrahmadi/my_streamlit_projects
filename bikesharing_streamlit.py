@@ -27,9 +27,13 @@ st.write(
 st.write(
     """
     ## Pertanyaan Bisnis
-    1) Apakah perbedaan dengan pengguna casual dan registered dari segi waktu penggunaannya?
-    2) Adakah faktor lain yang bisa menjelaskan perbedaan pengguna casual dan registered 
-       yang bisa digunakan sebagai insight untuk memperbaiki model bisnis pengada jasa bike sharing untuk mengakomodir pelanggannya dengan lebih efektif?
+    Pertanyaan 1:
+    **Apakah perbedaan dengan pengguna casual dan registered dari segi waktu penggunaannya?**
+
+    Pertanyaan 2:
+    **Adakah faktor lain yang bisa menjelaskan perbedaan pengguna casual dan registered yang 
+    bisa digunakan sebagai insight untuk memperbaiki model bisnis pengada jasa bike sharing untuk 
+    mengakomodir pelanggannya dengan lebih efektif?**
 
     """
 )
@@ -38,7 +42,7 @@ st.write(
     """
 
     ## Visualization & Explanatory Analysis
-    ### Pertanyaan 1
+    ### Pertanyaan 1: **Apakah perbedaan dengan pengguna casual dan registered dari segi waktu penggunaannya?**
 
     """
 )
@@ -146,7 +150,9 @@ st.write(
 st.write(
     """
 
-    ### Pertanyaan 2
+    ### Pertanyaan 2: **Adakah faktor lain yang bisa menjelaskan perbedaan pengguna casual dan registered yang 
+    bisa digunakan sebagai insight untuk memperbaiki model bisnis pengada jasa bike sharing untuk 
+    mengakomodir pelanggannya dengan lebih efektif?**
 
     """
 )
